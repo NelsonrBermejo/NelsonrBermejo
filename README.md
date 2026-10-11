@@ -20,3 +20,12 @@
 </p>
 
 ### About Me <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
+Me comprometo con lo que asumo, me gusta comunicar con claridad y estoy siempre buscando oportunidades para aprender y crecer. Trabajo con orden y me gusta entender cómo funciona lo que construyo.
+
+- 🌐 Desarrollé el frontend de una web en producción: filtros de búsqueda por zona y capacidad, publicación de propiedades con fotos e integración con Google Maps API
+- 📱 Adapté una app Android en Java que se conecta por Bluetooth a un dispositivo para mostrar fallas de vehículos, e implementé pantallas con gráficos
+- 🏥 Desarrollé con Node.js la carga de archivos DICOM (imágenes médicas) y una página con Angular dentro de una aplicación existente
+- 🗄️ Trabajé con APIs y bases de datos (PostgreSQL, MySQL y MongoDB), y sigo profundizando en SQL
+- 🔄 Me formé en metodologías ágiles y trabajé junto a otros desarrolladores
+- 🚀 Sigo desarrollándome como programador
+
