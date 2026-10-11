@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### About Me
+### About Me  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/about_me.gif" width="40" alt="about me"></picture>
 
 I take ownership of what I commit to, I enjoy communicating clearly, and I'm always looking for opportunities to learn and grow. I work in an organized way and like to understand how what I build works.
 
