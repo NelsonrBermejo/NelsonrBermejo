@@ -72,6 +72,6 @@ Me comprometo con lo que asumo, me gusta comunicar con claridad y estoy siempre 
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
 </span>
 <h4> Redes Sociales </h4>
-<a href="https://www.linkedin.com/in/nelson-bermejo/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/nelson-bermejo/?isSelfProfile=true" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
