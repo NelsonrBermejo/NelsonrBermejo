@@ -29,7 +29,7 @@ Me comprometo con lo que asumo, me gusta comunicar con claridad y estoy siempre 
 - 🔄 Me formé en metodologías ágiles y trabajé junto a otros desarrolladores
 - 🚀 Sigo desarrollándome como programador
 
-  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
 <h4> Lenguajes </h4>
