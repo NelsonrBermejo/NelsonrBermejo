@@ -63,10 +63,4 @@ Me comprometo con lo que asumo, me gusta comunicar con claridad y estoy siempre 
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<div align="center">
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=NelsonrBermejo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NelsonrBermejo)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NelsonrBermejo&theme=material-palenight)](https://github.com/NelsonrBermejo)
-</div>
 
